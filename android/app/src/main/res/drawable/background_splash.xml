@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- <item
+        android:drawable="@color/splashscreen_bg"
+        />
+
+    <item
+        android:drawable="@drawable/background_logo"
+        android:height="75dp"
+        android:width="150dp"
+        android:gravity="center"
+        tools:targetApi="m" /> -->
+
+    <item>
+        <bitmap
+        android:src="@drawable/background_logo"
+        android:gravity="fill"
+         />
+    </item>
+
+</layer-list>
